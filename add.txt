@@ -1,1 +1,5 @@
-something
+<<<<<<< .working
+
+something||||||| .merge-left.r22
+WENT WRONG=======
+something>>>>>>> .merge-right.r22
